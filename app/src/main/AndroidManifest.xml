@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Conecta4Movil">
         <activity
+            android:name=".juegoConecta4"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
