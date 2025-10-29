@@ -8,7 +8,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-
+// indicar contraseña y usuario para iniciar
 class MainActivity : AppCompatActivity() {
     private val credenciales = mapOf("1234" to "1234")
 
